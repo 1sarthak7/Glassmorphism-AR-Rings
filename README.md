@@ -25,8 +25,8 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/sarthakbhopale/hand-tracked-glass-rings?style=social)](https://github.com/sarthakbhopale/hand-tracked-glass-rings)
-[![Forks](https://img.shields.io/github/forks/sarthakbhopale/hand-tracked-glass-rings?style=social)](https://github.com/sarthakbhopale/hand-tracked-glass-rings)
+[![Stars](https://img.shields.io/github/stars/sarthakbhopale/Glassmorphism-AR-Rings?style=social)](https://github.com/sarthakbhopale/hand-tracked-glass-rings)
+[![Forks](https://img.shields.io/github/forks/sarthakbhopale/Glassmorphism-AR-Rings?style=social)](https://github.com/sarthakbhopale/hand-tracked-glass-rings)
 
 <br/>
 
